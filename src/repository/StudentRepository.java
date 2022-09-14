@@ -104,7 +104,9 @@ public class StudentRepository {
 //        return true;
 //
 //    }
+    public void Seach(String ma){
     
+    }
 
 //    public static void main(String[] args) {
 //
@@ -119,6 +121,7 @@ public class StudentRepository {
 //        }
 //
 //    }
+   
     
    
 }
